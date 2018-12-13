@@ -15,3 +15,4 @@ Flutter Examples
 * [Animations](https://github.com/sergiandreplace/flutter_animations.git)
 * [BCN Challenges](https://github.com/sergiandreplace/flutter_bcn_challenges.git)
 * [Planets Tutorial](https://github.com/sergiandreplace/flutter_planets_tutorial.git)
+* [Yo! in Flutter](https://github.com/flschweiger/yo-flutter)
