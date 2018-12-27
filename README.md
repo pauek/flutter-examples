@@ -18,4 +18,4 @@ Flutter Examples
 * [Yo! in Flutter](https://github.com/flschweiger/yo-flutter)
 * [Hacker News App](https://github.com/filiph/hn_app)
 * [History of Everything](https://github.com/2d-inc/HistoryOfEverything)
-
+* [Password Animation](https://github.com/tunitowen/password_animation)
