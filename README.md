@@ -17,4 +17,5 @@ Flutter Examples
 * [Planets Tutorial](https://github.com/sergiandreplace/flutter_planets_tutorial.git)
 * [Yo! in Flutter](https://github.com/flschweiger/yo-flutter)
 * [Hacker News App](https://github.com/filiph/hn_app)
+* [History of Everything](https://github.com/2d-inc/HistoryOfEverything)
 
