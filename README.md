@@ -19,3 +19,4 @@ Flutter Examples
 * [Hacker News App](https://github.com/filiph/hn_app)
 * [History of Everything](https://github.com/2d-inc/HistoryOfEverything)
 * [Password Animation](https://github.com/tunitowen/password_animation)
+* [Solitaire](https://github.com/deven98/FlutterSolitaire)
