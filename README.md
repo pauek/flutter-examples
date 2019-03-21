@@ -23,3 +23,4 @@ Flutter Examples
 * [MediumApp](https://github.com/deven98/MediumAppFlutter)
 * [Minesweeper](https://github.com/deven98/FlutterMinesweeper)
 * [Flight Search UI Challenge](https://github.com/deven98/flutter_ui_challenge_flight_search)
+* [BLOC Pattern Login Form](https://github.com/shiang/flutter-form-with-validation-BLOC)
