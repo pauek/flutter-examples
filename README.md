@@ -1,6 +1,6 @@
 
-Flutter Examples
-----------------
+My curated list of Flutter examples
+-----------------------------------
 * [Motion Layout Carousel](https://github.com/faob-dev/MotionLayoutCarousel)
 * [Springy Slider](https://github.com/matthew-carroll/flutter_ui_challenge_springy_slider)
 * [Weather](https://github.com/matthew-carroll/flutter_ui_challenge_weather)
@@ -24,3 +24,5 @@ Flutter Examples
 * [Minesweeper](https://github.com/deven98/FlutterMinesweeper)
 * [Flight Search UI Challenge](https://github.com/deven98/flutter_ui_challenge_flight_search)
 * [BLOC Pattern Login Form](https://github.com/shiang/flutter-form-with-validation-BLOC)
+* [Flutter Beat Sequencer](https://github.com/modulovalue/flutter_beat_sequencer)
+
